@@ -118,7 +118,7 @@ main {
   border-radius: 500px;
   position: absolute;
   right: -80px;
-  top: 250px;
+  top: 400px;
 }
 .slogan {
   margin-top: 100px;
@@ -154,7 +154,7 @@ button:hover{
   width: 290px;
   position: absolute;
   right: 0px;
-  top: 350px;
+  top: 480px;
 }
 .instagram1 {
   float: left;
@@ -165,7 +165,7 @@ button:hover{
   cursor: pointer;
   outline: none; 
   position: absolute;
-  top: 580px;
+  top: 800px;
   left: 10px;
 }
 .instagram1:hover{
